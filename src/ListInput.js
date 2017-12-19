@@ -215,6 +215,7 @@ class ListInput extends React.Component {
             collection={this.state.value}
             onChange={this.changeState}
             Component={this.state.WrappedItemComponent}
+            connectDropTarget={() => {}}
           />
         }
       </div>
