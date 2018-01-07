@@ -21,9 +21,6 @@
     "ramda": "^0.23.0",
     "react-drag-sort": "^2.1.0"
   },
-  "peerDependencies": {
-    "react": ""
-  },
   "devDependencies": {
     "babel-plugin-ramda": "^1.1.6",
     "nwb": "0.15.x",
